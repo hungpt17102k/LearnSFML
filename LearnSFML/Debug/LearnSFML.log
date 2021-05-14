@@ -1,0 +1,17 @@
+﻿  Example12.cpp
+E:\Game with C++\SFML with VS\LearnSFML\LearnSFML\Example12.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Game with C++\SFML with VS\LearnSFML\LearnSFML\Example12.cpp(211,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Game with C++\SFML with VS\LearnSFML\LearnSFML\Example12.cpp(211,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  LearnSFML.vcxproj -> E:\Game with C++\SFML with VS\LearnSFML\Debug\LearnSFML.exe
